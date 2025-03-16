@@ -15,12 +15,16 @@ Scikit-learn (Machine learning)
 RandomForestClassifier (Model implementation)
 
 Installation & Usage
+
 Clone the repository:
-git clone https://github.com/your-username/Student-Performance-Prediction.git
+git clone https://github.com/XhibitOP/Student-Performance-Prediction.git
+
 Install dependencies:
 pip install -r requirements.txt
+
 Run the project:
 python student_progress.py
+
 Dataset
 The dataset consists of student records, including features such as study hours, attendance, past scores, and more.
 
