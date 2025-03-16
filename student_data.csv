@@ -1,0 +1,11 @@
+StudentID,Gender,StudyHours,PreviousScores,Participation,Performance
+1,Male,5,78,High,Pass
+2,Female,8,85,Medium,Pass
+3,Male,2,50,Low,Fail
+4,Female,10,90,High,Pass
+5,Male,3,60,Low,Fail
+6,Female,7,80,Medium,Pass
+7,Male,1,40,Low,Fail
+8,Female,9,88,High,Pass
+9,Male,6,75,Medium,Pass
+10,Female,4,65,Low,Fail
